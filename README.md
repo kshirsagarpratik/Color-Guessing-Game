@@ -1,4 +1,4 @@
 # Color-Guessing-Game
-HTML, CSS and JavaScript based game where player has to guess which RGB color matches which color tile.
+HTML, CSS and JavaScript based game where player has to guess which RGB color matches which color tile. Have fun playing!
 
-To play, clone repo and open the .html file.
+Find the live instance of this game at: https://kshirsagarpratik.github.io/Color-Guessing-Game/index.html
